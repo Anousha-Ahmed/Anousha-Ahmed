@@ -1,12 +1,10 @@
-
-
-## 💫  About Me:
+## 💫 About Me:
 
 - 👋 Hi, I'm a Full Stack Web Developer
 - 🛠️ Building robust, scalable web applications and APIs
 - ⚡ Skilled in MERN Stack, Python, Django, Django REST Framework & APIs
 - 🚀 Always learning new things and improving every day
-- 🌱  Code. Break. Fix. Repeat.
+- 🌱 Code. Break. Fix. Repeat.
 
 ---
 
@@ -26,7 +24,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -41,12 +39,22 @@
 
 ## 📊 GitHub Stats:
 
-## ✍️ Random Dev Quote:
+![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
-"Make it work, make it right, make it fast."
+![](https://nirzak-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=false)
 
-— Kent Beck
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Top Contributed Repo
+---
+
+## ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+## 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=Anousha-Ahmed&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
