@@ -1,12 +1,12 @@
-# 👋 Anousha Ahmed
 
-## 📌 About Me:
 
-- 👩‍💻 Hi, I'm a Full Stack Web Developer
-- 🚀 Building robust, scalable web applications and APIs
-- 🛠️ Skilled in MERN Stack, Python, Django, Django REST Framework & APIs
-- 🎯 Always learning new things and improving every day
-- ☕ Code. Break. Fix. Repeat.
+## 💫  About Me:
+
+- 👋 Hi, I'm a Full Stack Web Developer
+- 🛠️ Building robust, scalable web applications and APIs
+- ⚡ Skilled in MERN Stack, Python, Django, Django REST Framework & APIs
+- 🚀 Always learning new things and improving every day
+- 🌱  Code. Break. Fix. Repeat.
 
 ---
 
@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ Tech Stack:
+## 💻 Tech Stack:
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -41,17 +41,11 @@
 
 ## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anousha-Ahmed&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anousha-Ahmed&layout=compact&theme=radical)
-
 ---
 
-## 🎯 Random Dev Quote:
+## ✍️ Random Dev Quote:
 
-> *"Code is like humor. When you have to explain it, it's bad."*  
-> — Cory House
+> *"Make it work, make it right, make it fast."*  
+> —  Kent Beck
 
 ---
-
-⭐️ From [Anousha Ahmed](https://github.com/Anousha-Ahmed)
