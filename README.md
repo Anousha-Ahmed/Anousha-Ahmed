@@ -41,11 +41,12 @@
 
 ## 📊 GitHub Stats:
 
----
-
 ## ✍️ Random Dev Quote:
 
-> *"Make it work, make it right, make it fast."*  
-> —  Kent Beck
+"Make it work, make it right, make it fast."
+
+— Kent Beck
+
+## Top Contributed Repo
 
 ---
